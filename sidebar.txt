@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wme:home|Door43 (wme)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wme|d43-wme repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wme/archive/master.zip|d43-wme.zip]]
+
+**Recent Changes**
+{{changes>ns = wme}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wme|Ethnologue data]]
+
